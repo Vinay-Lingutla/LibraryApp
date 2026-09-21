@@ -1,0 +1,203 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\VinayLingutla\\source\\repos\\LibraryApp.Console\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D19296AF-B57C-4B5D-B4CF-3CFC57F84D35}|LibraryApp.Console.csproj|c:\\users\\vinaylingutla\\source\\repos\\libraryapp.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D19296AF-B57C-4B5D-B4CF-3CFC57F84D35}|LibraryApp.Console.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E75FAAC-A89E-4EE8-BD83-0BE7FAE71F0C}|..\\LibraryApp.Domain\\LibraryApp.Domain.csproj|c:\\users\\vinaylingutla\\source\\repos\\libraryapp.domain\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E75FAAC-A89E-4EE8-BD83-0BE7FAE71F0C}|..\\LibraryApp.Domain\\LibraryApp.Domain.csproj|c:\\users\\vinaylingutla\\source\\repos\\libraryapp.domain\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E75FAAC-A89E-4EE8-BD83-0BE7FAE71F0C}|..\\LibraryApp.Domain\\LibraryApp.Domain.csproj|c:\\users\\vinaylingutla\\source\\repos\\libraryapp.domain\\exceptions\\booknotavailableexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E75FAAC-A89E-4EE8-BD83-0BE7FAE71F0C}|..\\LibraryApp.Domain\\LibraryApp.Domain.csproj|c:\\users\\vinaylingutla\\source\\repos\\libraryapp.domain\\repositories\\inmemoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E75FAAC-A89E-4EE8-BD83-0BE7FAE71F0C}|..\\LibraryApp.Domain\\LibraryApp.Domain.csproj|c:\\users\\vinaylingutla\\source\\repos\\libraryapp.domain\\entities\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E75FAAC-A89E-4EE8-BD83-0BE7FAE71F0C}|..\\LibraryApp.Domain\\LibraryApp.Domain.csproj|c:\\users\\vinaylingutla\\source\\repos\\libraryapp.domain\\services\\loanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E75FAAC-A89E-4EE8-BD83-0BE7FAE71F0C}|..\\LibraryApp.Domain\\LibraryApp.Domain.csproj|c:\\users\\vinaylingutla\\source\\repos\\libraryapp.domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E75FAAC-A89E-4EE8-BD83-0BE7FAE71F0C}|..\\LibraryApp.Domain\\LibraryApp.Domain.csproj|c:\\users\\vinaylingutla\\source\\repos\\libraryapp.domain\\exceptions\\loannotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E75FAAC-A89E-4EE8-BD83-0BE7FAE71F0C}|..\\LibraryApp.Domain\\LibraryApp.Domain.csproj|c:\\users\\vinaylingutla\\source\\repos\\libraryapp.domain\\exceptions\\membernotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E75FAAC-A89E-4EE8-BD83-0BE7FAE71F0C}|..\\LibraryApp.Domain\\LibraryApp.Domain.csproj|c:\\users\\vinaylingutla\\source\\repos\\libraryapp.domain\\entities\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D19296AF-B57C-4B5D-B4CF-3CFC57F84D35}|LibraryApp.Console.csproj|c:\\users\\vinaylingutla\\source\\repos\\libraryapp.console\\libraryapp.console.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D19296AF-B57C-4B5D-B4CF-3CFC57F84D35}|LibraryApp.Console.csproj|solutionrelative:libraryapp.console.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\VinayLingutla\\source\\repos\\LibraryApp.Domain\\Entities\\Book.cs",
+              "RelativeDocumentMoniker": "..\\LibraryApp.Domain\\Entities\\Book.cs",
+              "ToolTip": "C:\\Users\\VinayLingutla\\source\\repos\\LibraryApp.Domain\\Entities\\Book.cs",
+              "RelativeToolTip": "..\\LibraryApp.Domain\\Entities\\Book.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-20T12:19:59.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Member.cs",
+              "DocumentMoniker": "C:\\Users\\VinayLingutla\\source\\repos\\LibraryApp.Domain\\Entities\\Member.cs",
+              "RelativeDocumentMoniker": "..\\LibraryApp.Domain\\Entities\\Member.cs",
+              "ToolTip": "C:\\Users\\VinayLingutla\\source\\repos\\LibraryApp.Domain\\Entities\\Member.cs",
+              "RelativeToolTip": "..\\LibraryApp.Domain\\Entities\\Member.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-20T12:18:16.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoanService.cs",
+              "DocumentMoniker": "C:\\Users\\VinayLingutla\\source\\repos\\LibraryApp.Domain\\Services\\LoanService.cs",
+              "RelativeDocumentMoniker": "..\\LibraryApp.Domain\\Services\\LoanService.cs",
+              "ToolTip": "C:\\Users\\VinayLingutla\\source\\repos\\LibraryApp.Domain\\Services\\LoanService.cs",
+              "RelativeToolTip": "..\\LibraryApp.Domain\\Services\\LoanService.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAwDIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-20T11:39:01.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VinayLingutla\\source\\repos\\LibraryApp.Console\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\VinayLingutla\\source\\repos\\LibraryApp.Console\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAQwAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-20T11:38:30.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InMemoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\VinayLingutla\\source\\repos\\LibraryApp.Domain\\Repositories\\InMemoryRepository.cs",
+              "RelativeDocumentMoniker": "..\\LibraryApp.Domain\\Repositories\\InMemoryRepository.cs",
+              "ToolTip": "C:\\Users\\VinayLingutla\\source\\repos\\LibraryApp.Domain\\Repositories\\InMemoryRepository.cs",
+              "RelativeToolTip": "..\\LibraryApp.Domain\\Repositories\\InMemoryRepository.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwDYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-20T11:53:01.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\VinayLingutla\\source\\repos\\LibraryApp.Domain\\Repositories\\BookRepository.cs",
+              "RelativeDocumentMoniker": "..\\LibraryApp.Domain\\Repositories\\BookRepository.cs",
+              "ToolTip": "C:\\Users\\VinayLingutla\\source\\repos\\LibraryApp.Domain\\Repositories\\BookRepository.cs",
+              "RelativeToolTip": "..\\LibraryApp.Domain\\Repositories\\BookRepository.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-20T11:40:49.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookNotAvailableException.cs",
+              "DocumentMoniker": "C:\\Users\\VinayLingutla\\source\\repos\\LibraryApp.Domain\\Exceptions\\BookNotAvailableException.cs",
+              "RelativeDocumentMoniker": "..\\LibraryApp.Domain\\Exceptions\\BookNotAvailableException.cs",
+              "ToolTip": "C:\\Users\\VinayLingutla\\source\\repos\\LibraryApp.Domain\\Exceptions\\BookNotAvailableException.cs",
+              "RelativeToolTip": "..\\LibraryApp.Domain\\Exceptions\\BookNotAvailableException.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-20T12:06:57.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\VinayLingutla\\source\\repos\\LibraryApp.Domain\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "..\\LibraryApp.Domain\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\VinayLingutla\\source\\repos\\LibraryApp.Domain\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "..\\LibraryApp.Domain\\Entities\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-20T12:12:25.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoanNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\VinayLingutla\\source\\repos\\LibraryApp.Domain\\Exceptions\\LoanNotFoundException.cs",
+              "RelativeDocumentMoniker": "..\\LibraryApp.Domain\\Exceptions\\LoanNotFoundException.cs",
+              "ToolTip": "C:\\Users\\VinayLingutla\\source\\repos\\LibraryApp.Domain\\Exceptions\\LoanNotFoundException.cs",
+              "RelativeToolTip": "..\\LibraryApp.Domain\\Exceptions\\LoanNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-20T12:11:26.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MemberNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\VinayLingutla\\source\\repos\\LibraryApp.Domain\\Exceptions\\MemberNotFoundException.cs",
+              "RelativeDocumentMoniker": "..\\LibraryApp.Domain\\Exceptions\\MemberNotFoundException.cs",
+              "ToolTip": "C:\\Users\\VinayLingutla\\source\\repos\\LibraryApp.Domain\\Exceptions\\MemberNotFoundException.cs",
+              "RelativeToolTip": "..\\LibraryApp.Domain\\Exceptions\\MemberNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-20T12:09:45.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Loan.cs",
+              "DocumentMoniker": "C:\\Users\\VinayLingutla\\source\\repos\\LibraryApp.Domain\\Entities\\Loan.cs",
+              "RelativeDocumentMoniker": "..\\LibraryApp.Domain\\Entities\\Loan.cs",
+              "ToolTip": "C:\\Users\\VinayLingutla\\source\\repos\\LibraryApp.Domain\\Entities\\Loan.cs",
+              "RelativeToolTip": "..\\LibraryApp.Domain\\Entities\\Loan.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-20T11:59:03.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LibraryApp.Console.csproj",
+              "DocumentMoniker": "C:\\Users\\VinayLingutla\\source\\repos\\LibraryApp.Console\\LibraryApp.Console.csproj",
+              "RelativeDocumentMoniker": "LibraryApp.Console.csproj",
+              "ToolTip": "C:\\Users\\VinayLingutla\\source\\repos\\LibraryApp.Console\\LibraryApp.Console.csproj",
+              "RelativeToolTip": "LibraryApp.Console.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-20T08:55:04.113Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

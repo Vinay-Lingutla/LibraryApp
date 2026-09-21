@@ -1,0 +1,11 @@
+C:\Users\VinayLingutla\source\repos\LibraryApp.Domain\bin\Debug\net9.0\LibraryApp.Domain.deps.json
+C:\Users\VinayLingutla\source\repos\LibraryApp.Domain\bin\Debug\net9.0\LibraryApp.Domain.dll
+C:\Users\VinayLingutla\source\repos\LibraryApp.Domain\bin\Debug\net9.0\LibraryApp.Domain.pdb
+C:\Users\VinayLingutla\source\repos\LibraryApp.Domain\obj\Debug\net9.0\LibraryApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VinayLingutla\source\repos\LibraryApp.Domain\obj\Debug\net9.0\LibraryApp.Domain.AssemblyInfoInputs.cache
+C:\Users\VinayLingutla\source\repos\LibraryApp.Domain\obj\Debug\net9.0\LibraryApp.Domain.AssemblyInfo.cs
+C:\Users\VinayLingutla\source\repos\LibraryApp.Domain\obj\Debug\net9.0\LibraryApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\VinayLingutla\source\repos\LibraryApp.Domain\obj\Debug\net9.0\LibraryApp.Domain.dll
+C:\Users\VinayLingutla\source\repos\LibraryApp.Domain\obj\Debug\net9.0\refint\LibraryApp.Domain.dll
+C:\Users\VinayLingutla\source\repos\LibraryApp.Domain\obj\Debug\net9.0\LibraryApp.Domain.pdb
+C:\Users\VinayLingutla\source\repos\LibraryApp.Domain\obj\Debug\net9.0\ref\LibraryApp.Domain.dll
